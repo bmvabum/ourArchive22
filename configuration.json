@@ -11,7 +11,7 @@
         "bgLight": "#4aaab6"
     },
     "imagesPath": "images/",
-    "imageExtension": ".JPG",
+    "imageExtension": ".jpg",
     "defaultImageCount": 22  ,
     "heartColor": "#00337c",
     "passwordHint": "Hint: trang 4 của lá thư",
