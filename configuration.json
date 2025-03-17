@@ -1,0 +1,21 @@
+{
+    "mainTitle": "Photo Gallery",
+    "mainMessage": "Welcome to our photo gallery",
+    "desTitle": "Our Photo Gallery",
+    "desMessage": "Enjoy our beautiful memories together",
+    "colors": {
+        "primary": "#00337c",
+        "primaryLight": "#4aaab6",
+        "textDark": "#333",
+        "textLight": "white",
+        "bgLight": "#4aaab6"
+    },
+    "imagesPath": "images/",
+    "imageExtension": ".JPG",
+    "defaultImageCount": 4  ,
+    "heartColor": "#00337c",
+    "passwordHint": "Enter the password to view the gallery",
+    "errorMessage": "Incorrect password",
+    "correctPassword": "2508",
+    "backgroundImage": "images/background.JPG"
+}
