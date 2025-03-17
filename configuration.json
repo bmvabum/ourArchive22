@@ -1,8 +1,8 @@
 {
-    "mainTitle": "Photo Gallery",
-    "mainMessage": "Welcome to our photo gallery",
-    "desTitle": "Our Photo Gallery",
-    "desMessage": "Enjoy our beautiful memories together",
+    "mainTitle": "Bm and Bong's Photos Archive",
+    "mainMessage": "Some more of our favorite memories",
+    "desTitle": "Bm and Bong's Photos Archive",
+    "desMessage": "Hope you will remember how we have been so perfect for each other. Done fell in love with you and always will.",
     "colors": {
         "primary": "#00337c",
         "primaryLight": "#4aaab6",
@@ -12,10 +12,10 @@
     },
     "imagesPath": "images/",
     "imageExtension": ".JPG",
-    "defaultImageCount": 4  ,
+    "defaultImageCount": 22  ,
     "heartColor": "#00337c",
-    "passwordHint": "Enter the password to view the gallery",
-    "errorMessage": "Incorrect password",
-    "correctPassword": "2508",
+    "passwordHint": "Hint: trang 4 của lá thư",
+    "errorMessage": "Sai rùi đoán lại i.",
+    "correctPassword": "22",
     "backgroundImage": "images/background.JPG"
 }
